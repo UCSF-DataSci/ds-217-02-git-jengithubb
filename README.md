@@ -1,17 +1,18 @@
-
-# GitHub username
+# Requested Information from Assignment 1
+## GitHub username
 jengithubb
 
-# 
+## If we list all the natural numbers below 10 that are multiples of 3 or 5, we get (3, 5, 6, 9). The sum of these multiples is 23. Find the sum of all the multiples of 3 or 5 below 1000.
+The sum of all multiples of 3 or 5 below 1000 is 233168.
 
-# - Brief introduction (who are you, why are you here, anything you’re specifically hoping to get out of the course)
+## Brief introduction 
 My name is Jennifer Zhu, and I’m a first-year student in the Health Data Science program. I’m here to gain more knowledge about data science and develop a strong understanding of how Python is applied in the industry. I hope to become fluent in using Python as a tool for data management and visualization. Additionally, I’m eager to learn key data science concepts and explore basic machine learning techniques.
 
-# - Link to Python official website
-https://www.python.org!
+# Link to Python official website
+Neat collection of [python official website](https://www.python.org)
 
-# - Screenshot of package install using pip
+# Screenshot of package install using pip
 ![alt text](PackageInstallUsingPip.jpg)
 
-# - Meme image
+# Meme image
 ![alt text](image.png)

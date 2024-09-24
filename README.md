@@ -2,6 +2,9 @@
 ## GitHub username
 jengithubb
 
+## Create a Python script that prints "Hello, Data Science!"
+Created a python file that prints "Hello, Data Science!" in the scripts folder.
+
 ## If we list all the natural numbers below 10 that are multiples of 3 or 5, we get (3, 5, 6, 9). The sum of these multiples is 23. Find the sum of all the multiples of 3 or 5 below 1000.
 The sum of all multiples of 3 or 5 below 1000 is 233168.
 

@@ -18,4 +18,4 @@ Neat collection of [python official website](https://www.python.org)
 ![alt text](PackageInstallUsingPip.jpg)
 
 # Meme image
-![alt text](image.png)
+![alt text](meme.png)

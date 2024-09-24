@@ -1,4 +1,5 @@
-# - GitHub username
+# Assigement 2
+## GitHub username
 jengithubb
 
 # - Answer to the problem above + script you wrote to solve it

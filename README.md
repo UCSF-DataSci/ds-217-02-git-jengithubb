@@ -10,12 +10,4 @@ My name is Jennifer Zhu, and I’m a first-year student in the Health Data Scien
 https://www.python.org!
 
 # - Screenshot of package install using pip
-[alt text](<Package install using pip.jpg>)
-
-# - Link to github official website
-https://www.python.org
-# - Link to github official website
-https://www.python.org!
-
-# - Screenshot of package install using pip
-[alt text](<Package install using pip.jpg>)
+![alt text](PackageInstallUsingPip.jpg)
